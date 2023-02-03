@@ -273,45 +273,45 @@ Screenshot diambil dari website 000webhost setelah project di hosting
 
 *Halaman Login
 <p align="center">
-  <img src="assets/login.png" alt="home" width="700px">
+  <img src="assets/_login.png" alt="home" width="700px">
 </p>
 
 *Halaman Signup
 <p align="center">
-  <img src="assets/signup.png" alt="home" width="700px">
+  <img src="assets/_signup.png" alt="home" width="700px">
 </p>
 
 *Halaman Utama
 <p align="center">
-  <img src="assets/home.png" alt="home" width="700px">
+  <img src="assets/_home.png" alt="home" width="700px">
 </p>
 
 *Halaman Katalog
 <p align="center">
-  <img src="assets/katalog.png" alt="home" width="700px">
+  <img src="assets/_katalog.png" alt="home" width="700px">
 </p>
 
 *Halaman About
 <p align="center">
-  <img src="assets/about.png" alt="home" width="700px">
+  <img src="assets/_about.png" alt="home" width="700px">
 </p>
 
 *Halaman Manage
 <p align="center">
-  <img src="assets/manage.png" alt="home" width="700px">
+  <img src="assets/_manage.png" alt="home" width="700px">
 </p>
 
 *Halaman Tambah Produk
 <p align="center">
-  <img src="assets/tambah_produk.png" alt="home" width="700px">
+  <img src="assets/_tambah_produk.png" alt="home" width="700px">
 </p>
 
 *Halaman Edit Produk
 <p align="center">
-  <img src="assets/update.png" alt="home" width="700px">
+  <img src="assets/_update.png" alt="home" width="700px">
 </p>
 
 *Halaman Edit User
 <p align="center">
-  <img src="assets/edit_user.png" alt="home" width="700px">
+  <img src="assets/_edit_user.png" alt="home" width="700px">
 </p>
