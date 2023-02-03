@@ -1,6 +1,6 @@
 <br />
 <div align="center">
-  <h1 align="center">E Katalog</h1>
+  <h1 align="center">E-Katalog</h1>
   
   <p align="center">
     Ahmad Ali Satia - 20552011200 - TIF K 20 CID
