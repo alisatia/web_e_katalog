@@ -42,7 +42,6 @@ Berkembangnya teknologi informasi yang demikian pesat di millennial sekarang ini
 Perkembangan teknologi informasi ini senantiasa diterapkan dalam beberapa bisnis, salah satunya jenis bisnis apparel. Berbagai jenis software yang dapat di akses dari smartphone seperti e commerce yang cukup berperan dalam penjualan. Tidak hanya dalam penjualan, dengan adanya teknologi informasi ini juga membantu dalam membuat iklan produk sebagai sarana pemasaran, melihat dan menganalisis pasar saat ini, dan membuat katalog digital.
 
 Dengan adanya e-katalog atau katalog digital dapat membantu bisnis apparel agar dapat memampang semua produk. Dengan di pampangnya semua produk maka akan membantu pelanggan dengan cepat menembukan produk yang dicari. Dengan begitu semua sisi antara penjual dan pelanggan dapat termudahkan.  
-Here's why: * Your time should be focused on creating something amazing. A project that solves a problem and helps others * You shouldn't be doing the same tasks over and over like creating a README from scratch * You should implement DRY principles to the rest of your life :smile:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
